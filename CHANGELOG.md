@@ -1,6 +1,10 @@
 Changelog
 ---------
 
+**6.0.1+1.4.1**
+
+- Added Ubuntu 20.04 (Focal Fossa) as supported platform
+
 **6.0.0+1.4.1**
 
 - Update `cfssl` tools to version 1.4.1
